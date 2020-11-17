@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is another project of mine. This is where I will upload my projects.
+
+Currently, I opperate with Python, but I am in the process of learning C# as it's widely used.
+
+No guarantees that any of the software that I upload will be good.
 <!--
 **Aconix/Aconix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
